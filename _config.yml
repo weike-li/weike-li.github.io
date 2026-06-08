@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-9574-5050"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Weike-Li-6?ev=hdr_xprf" # URL
   scopus           : # URL
   zotero           : # URL
