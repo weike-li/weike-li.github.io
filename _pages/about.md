@@ -11,5 +11,5 @@ LI Weike is a PhD candidate in Urban Planning and Design at City University of H
 
 Related links
 ======
-CityU Scholar: [Weike Li]([https://pages.github.com/](https://scholars.cityu.edu.hk/en/persons/weikeli2/))
+CityU Scholar: [Weike Li]([https://scholars.cityu.edu.hk/en/persons/weikeli2/])
 
