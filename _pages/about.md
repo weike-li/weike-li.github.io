@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Weike Li 李威克"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-### Biography
+## Biography
 Weike Li (李威克) is a PhD candidate in Urban Planning and Design at City University of Hong Kong and currently a Visiting Researcher at Aalto University. His research investigates the notion of Platform Capitalism, the organic form of human habitat, and the realm of the pedestrian environment. He published five journal articles on reputable academic journals (e.g., Cities, European Planning Studies), and seven conference papers/abstracts on international conference proceedings. He presented his research at three international academic conferences and four seminars, and coordinated six exhibitions and three workshops. He is also a full member of the Hong Kong Institute of Urban Design (MHKIUD).
 ### Email
 [weikeli2-c@my.cityu.edu.hk](weikeli2-c@my.cityu.edu.hk) 
 
-### Recent research outputs
+## Recent research outputs
 * **Li, W.**, Talamini, G., Li, M., & Villani, C. (2026). Subway-City Interface in China: Inter-Urban Comparative Analysis of Station-Area Integration. Travel Behaviour and Society. [link](https://doi.org/10.1016/j.tbs.2026.101273) (**SSCI Q1, IF=5.7; CAS Q1, Top**)
 
 * **Li, W.**, Hu, J., & Talamini, G. (2026). The spatial fix of platform ruralism in the Greater Bay Area of China. Transactions in Planning and Urban Research, 27541223261434912. [link](https://doi.org/10.1177/27541223261434912) (**ESCI**)
