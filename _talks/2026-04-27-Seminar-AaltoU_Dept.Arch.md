@@ -1,9 +1,9 @@
 ---
 title: "Platform urbanism beyond the city"
 collection: talks
-type: "Seminar"
+type: "Research lounge"
 permalink: /talks/2026-04-27-Seminar
-venue: "Aalto University, Department of Architecture"
+venue: "Department of Architecture, Aalto University"
 date: 2026-04-27
 location: "Espoo, Finland"
 ---
