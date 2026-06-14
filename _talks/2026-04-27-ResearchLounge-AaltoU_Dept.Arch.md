@@ -1,5 +1,5 @@
 ---
-title: "Platform urbanism beyond the city"
+title: "Platform Urbanism Beyond the City"
 collection: talks
 type: "Research lounge"
 permalink: /talks/2026-04-27-Seminar
