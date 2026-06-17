@@ -17,7 +17,7 @@ CityUHK Scholar: [link](https://scholars.cityu.edu.hk/en/persons/weikeli2/)
 
 ## Recent research outputs
 * **Li, W.**, Talamini, G., Li, M., & Villani, C. (2026). Subway-City Interface in China: Inter-Urban Comparative Analysis of Station-Area Integration. Travel Behaviour and Society. [link](https://doi.org/10.1016/j.tbs.2026.101273) (**SSCI Q1, IF=5.7; CAS Q1, Top**)
-* **Li, W.**, Hu, J., & Talamini, G. (2026). The spatial fix of platform ruralism in the Greater Bay Area of China. Transactions in Planning and Urban Research, 27541223261434912. [link](https://doi.org/10.1177/27541223261434912) (**ESCI**)
+* **Li, W.**, Hu, J., & Talamini, G. (2026). The spatial fix of platform ruralism in the Greater Bay Area of China. Transactions in Planning and Urban Research, 27541223261434912. [link](https://doi.org/10.1177/27541223261434912) (**ESCI Q3, IF=1.9**)
 * **Li, W.**, Talamini, G., & Shannon, K. (2026). Forest urbanism: spatial analysis of the forest-dwelling integration in Alvar Aalto’s plan for Imatra. European Planning Studies, 1-25. [link](https://doi.org/10.1080/09654313.2026.2625324) (**SSCI Q1, IF=3.2; CAS Q2**)
 * **Li, W.**, & Talamini, G. (2023). Valuing the Hong Kong Northern Metropolis. Urbannie Urbanus J, 9, 30-41. [link](https://doi.org/10.55412/09.04)
 * Talamini, G., **Li, W.**, & Li, X. (2022). From brick-and-mortar to location-less restaurant: The spatial fixing of on-demand food delivery platformization. Cities, 128, 103820. [link](https://doi.org/10.1016/j.cities.2022.103820) (**SSCI Q1, IF=6.6; CAS Q1, Top**)
